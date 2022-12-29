@@ -86,6 +86,15 @@ p, ul.blurb {
     display: block;
 }
 
+.display-inline {
+    display: inline;
+}
+
+a.cta-inline-link,
+a.cta-inline-link:visited {
+    color: #6526c2;
+}
+
 .display-flex {
     display: flex;
 }
